@@ -63,7 +63,6 @@ namespace DotNetDesignPatternDemos.Creational.Prototype
       WriteLine(john); // oops, john is called chris
       WriteLine(chris);
 
-
     }
   }
 }
