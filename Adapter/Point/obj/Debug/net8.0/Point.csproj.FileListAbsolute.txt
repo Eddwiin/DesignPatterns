@@ -1,0 +1,5 @@
+/home/maguran/Documents/Perso/Course/DesignPatterns/Adapter/Point/obj/Debug/net8.0/Point.GeneratedMSBuildEditorConfig.editorconfig
+/home/maguran/Documents/Perso/Course/DesignPatterns/Adapter/Point/obj/Debug/net8.0/Point.AssemblyInfoInputs.cache
+/home/maguran/Documents/Perso/Course/DesignPatterns/Adapter/Point/obj/Debug/net8.0/Point.AssemblyInfo.cs
+/home/maguran/Documents/Perso/Course/DesignPatterns/Adapter/Point/obj/Debug/net8.0/Point.csproj.CoreCompileInputs.cache
+/home/maguran/Documents/Perso/Course/DesignPatterns/Adapter/Point/obj/Debug/net8.0/Point.sourcelink.json
