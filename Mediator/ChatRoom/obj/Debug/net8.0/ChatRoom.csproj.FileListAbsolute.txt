@@ -1,0 +1,15 @@
+/home/maguran/Documents/Perso/Course/DesignPatterns/Mediator/ChatRoom/obj/Debug/net8.0/ChatRoom.GeneratedMSBuildEditorConfig.editorconfig
+/home/maguran/Documents/Perso/Course/DesignPatterns/Mediator/ChatRoom/obj/Debug/net8.0/ChatRoom.AssemblyInfoInputs.cache
+/home/maguran/Documents/Perso/Course/DesignPatterns/Mediator/ChatRoom/obj/Debug/net8.0/ChatRoom.AssemblyInfo.cs
+/home/maguran/Documents/Perso/Course/DesignPatterns/Mediator/ChatRoom/obj/Debug/net8.0/ChatRoom.csproj.CoreCompileInputs.cache
+/home/maguran/Documents/Perso/Course/DesignPatterns/Mediator/ChatRoom/obj/Debug/net8.0/ChatRoom.sourcelink.json
+/home/maguran/Documents/Perso/Course/DesignPatterns/Mediator/ChatRoom/bin/Debug/net8.0/ChatRoom
+/home/maguran/Documents/Perso/Course/DesignPatterns/Mediator/ChatRoom/bin/Debug/net8.0/ChatRoom.deps.json
+/home/maguran/Documents/Perso/Course/DesignPatterns/Mediator/ChatRoom/bin/Debug/net8.0/ChatRoom.runtimeconfig.json
+/home/maguran/Documents/Perso/Course/DesignPatterns/Mediator/ChatRoom/bin/Debug/net8.0/ChatRoom.dll
+/home/maguran/Documents/Perso/Course/DesignPatterns/Mediator/ChatRoom/bin/Debug/net8.0/ChatRoom.pdb
+/home/maguran/Documents/Perso/Course/DesignPatterns/Mediator/ChatRoom/obj/Debug/net8.0/ChatRoom.dll
+/home/maguran/Documents/Perso/Course/DesignPatterns/Mediator/ChatRoom/obj/Debug/net8.0/refint/ChatRoom.dll
+/home/maguran/Documents/Perso/Course/DesignPatterns/Mediator/ChatRoom/obj/Debug/net8.0/ChatRoom.pdb
+/home/maguran/Documents/Perso/Course/DesignPatterns/Mediator/ChatRoom/obj/Debug/net8.0/ChatRoom.genruntimeconfig.cache
+/home/maguran/Documents/Perso/Course/DesignPatterns/Mediator/ChatRoom/obj/Debug/net8.0/ref/ChatRoom.dll

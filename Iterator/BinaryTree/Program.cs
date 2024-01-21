@@ -142,7 +142,6 @@ namespace DotNetDesignPatternDemos.Structural.Iterator.TreeTraversal
 
             WriteLine(string.Join(",", tree.NaturalInOrder.Select(x => x.Value)));
 
-            // duck typing!
             foreach (var node in tree)
                 WriteLine(node.Value);
 
