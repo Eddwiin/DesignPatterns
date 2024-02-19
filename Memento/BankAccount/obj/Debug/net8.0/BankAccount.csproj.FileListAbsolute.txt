@@ -1,0 +1,15 @@
+/home/maguran/Documents/Perso/Course/DesignPatterns/Memento/BankAccount/obj/Debug/net8.0/BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+/home/maguran/Documents/Perso/Course/DesignPatterns/Memento/BankAccount/obj/Debug/net8.0/BankAccount.AssemblyInfoInputs.cache
+/home/maguran/Documents/Perso/Course/DesignPatterns/Memento/BankAccount/obj/Debug/net8.0/BankAccount.AssemblyInfo.cs
+/home/maguran/Documents/Perso/Course/DesignPatterns/Memento/BankAccount/obj/Debug/net8.0/BankAccount.csproj.CoreCompileInputs.cache
+/home/maguran/Documents/Perso/Course/DesignPatterns/Memento/BankAccount/obj/Debug/net8.0/BankAccount.sourcelink.json
+/home/maguran/Documents/Perso/Course/DesignPatterns/Memento/BankAccount/bin/Debug/net8.0/BankAccount
+/home/maguran/Documents/Perso/Course/DesignPatterns/Memento/BankAccount/bin/Debug/net8.0/BankAccount.deps.json
+/home/maguran/Documents/Perso/Course/DesignPatterns/Memento/BankAccount/bin/Debug/net8.0/BankAccount.runtimeconfig.json
+/home/maguran/Documents/Perso/Course/DesignPatterns/Memento/BankAccount/bin/Debug/net8.0/BankAccount.dll
+/home/maguran/Documents/Perso/Course/DesignPatterns/Memento/BankAccount/bin/Debug/net8.0/BankAccount.pdb
+/home/maguran/Documents/Perso/Course/DesignPatterns/Memento/BankAccount/obj/Debug/net8.0/BankAccount.dll
+/home/maguran/Documents/Perso/Course/DesignPatterns/Memento/BankAccount/obj/Debug/net8.0/refint/BankAccount.dll
+/home/maguran/Documents/Perso/Course/DesignPatterns/Memento/BankAccount/obj/Debug/net8.0/BankAccount.pdb
+/home/maguran/Documents/Perso/Course/DesignPatterns/Memento/BankAccount/obj/Debug/net8.0/BankAccount.genruntimeconfig.cache
+/home/maguran/Documents/Perso/Course/DesignPatterns/Memento/BankAccount/obj/Debug/net8.0/ref/BankAccount.dll

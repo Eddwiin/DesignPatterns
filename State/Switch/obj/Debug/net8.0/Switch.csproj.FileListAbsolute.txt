@@ -1,0 +1,15 @@
+/home/maguran/Documents/Perso/Course/DesignPatterns/State/Switch/obj/Debug/net8.0/Switch.GeneratedMSBuildEditorConfig.editorconfig
+/home/maguran/Documents/Perso/Course/DesignPatterns/State/Switch/obj/Debug/net8.0/Switch.AssemblyInfoInputs.cache
+/home/maguran/Documents/Perso/Course/DesignPatterns/State/Switch/obj/Debug/net8.0/Switch.AssemblyInfo.cs
+/home/maguran/Documents/Perso/Course/DesignPatterns/State/Switch/obj/Debug/net8.0/Switch.csproj.CoreCompileInputs.cache
+/home/maguran/Documents/Perso/Course/DesignPatterns/State/Switch/obj/Debug/net8.0/Switch.sourcelink.json
+/home/maguran/Documents/Perso/Course/DesignPatterns/State/Switch/bin/Debug/net8.0/Switch
+/home/maguran/Documents/Perso/Course/DesignPatterns/State/Switch/bin/Debug/net8.0/Switch.deps.json
+/home/maguran/Documents/Perso/Course/DesignPatterns/State/Switch/bin/Debug/net8.0/Switch.runtimeconfig.json
+/home/maguran/Documents/Perso/Course/DesignPatterns/State/Switch/bin/Debug/net8.0/Switch.dll
+/home/maguran/Documents/Perso/Course/DesignPatterns/State/Switch/bin/Debug/net8.0/Switch.pdb
+/home/maguran/Documents/Perso/Course/DesignPatterns/State/Switch/obj/Debug/net8.0/Switch.dll
+/home/maguran/Documents/Perso/Course/DesignPatterns/State/Switch/obj/Debug/net8.0/refint/Switch.dll
+/home/maguran/Documents/Perso/Course/DesignPatterns/State/Switch/obj/Debug/net8.0/Switch.pdb
+/home/maguran/Documents/Perso/Course/DesignPatterns/State/Switch/obj/Debug/net8.0/Switch.genruntimeconfig.cache
+/home/maguran/Documents/Perso/Course/DesignPatterns/State/Switch/obj/Debug/net8.0/ref/Switch.dll

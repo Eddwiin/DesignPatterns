@@ -1,0 +1,15 @@
+/home/maguran/Documents/Perso/Course/DesignPatterns/State/Phone/obj/Debug/net8.0/Phone.GeneratedMSBuildEditorConfig.editorconfig
+/home/maguran/Documents/Perso/Course/DesignPatterns/State/Phone/obj/Debug/net8.0/Phone.AssemblyInfoInputs.cache
+/home/maguran/Documents/Perso/Course/DesignPatterns/State/Phone/obj/Debug/net8.0/Phone.AssemblyInfo.cs
+/home/maguran/Documents/Perso/Course/DesignPatterns/State/Phone/obj/Debug/net8.0/Phone.csproj.CoreCompileInputs.cache
+/home/maguran/Documents/Perso/Course/DesignPatterns/State/Phone/obj/Debug/net8.0/Phone.sourcelink.json
+/home/maguran/Documents/Perso/Course/DesignPatterns/State/Phone/bin/Debug/net8.0/Phone
+/home/maguran/Documents/Perso/Course/DesignPatterns/State/Phone/bin/Debug/net8.0/Phone.deps.json
+/home/maguran/Documents/Perso/Course/DesignPatterns/State/Phone/bin/Debug/net8.0/Phone.runtimeconfig.json
+/home/maguran/Documents/Perso/Course/DesignPatterns/State/Phone/bin/Debug/net8.0/Phone.dll
+/home/maguran/Documents/Perso/Course/DesignPatterns/State/Phone/bin/Debug/net8.0/Phone.pdb
+/home/maguran/Documents/Perso/Course/DesignPatterns/State/Phone/obj/Debug/net8.0/Phone.dll
+/home/maguran/Documents/Perso/Course/DesignPatterns/State/Phone/obj/Debug/net8.0/refint/Phone.dll
+/home/maguran/Documents/Perso/Course/DesignPatterns/State/Phone/obj/Debug/net8.0/Phone.pdb
+/home/maguran/Documents/Perso/Course/DesignPatterns/State/Phone/obj/Debug/net8.0/Phone.genruntimeconfig.cache
+/home/maguran/Documents/Perso/Course/DesignPatterns/State/Phone/obj/Debug/net8.0/ref/Phone.dll

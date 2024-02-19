@@ -1,0 +1,15 @@
+/home/maguran/Documents/Perso/Course/DesignPatterns/State/Chest/bin/Debug/net8.0/Chest
+/home/maguran/Documents/Perso/Course/DesignPatterns/State/Chest/bin/Debug/net8.0/Chest.deps.json
+/home/maguran/Documents/Perso/Course/DesignPatterns/State/Chest/bin/Debug/net8.0/Chest.runtimeconfig.json
+/home/maguran/Documents/Perso/Course/DesignPatterns/State/Chest/bin/Debug/net8.0/Chest.dll
+/home/maguran/Documents/Perso/Course/DesignPatterns/State/Chest/bin/Debug/net8.0/Chest.pdb
+/home/maguran/Documents/Perso/Course/DesignPatterns/State/Chest/obj/Debug/net8.0/Chest.GeneratedMSBuildEditorConfig.editorconfig
+/home/maguran/Documents/Perso/Course/DesignPatterns/State/Chest/obj/Debug/net8.0/Chest.AssemblyInfoInputs.cache
+/home/maguran/Documents/Perso/Course/DesignPatterns/State/Chest/obj/Debug/net8.0/Chest.AssemblyInfo.cs
+/home/maguran/Documents/Perso/Course/DesignPatterns/State/Chest/obj/Debug/net8.0/Chest.csproj.CoreCompileInputs.cache
+/home/maguran/Documents/Perso/Course/DesignPatterns/State/Chest/obj/Debug/net8.0/Chest.sourcelink.json
+/home/maguran/Documents/Perso/Course/DesignPatterns/State/Chest/obj/Debug/net8.0/Chest.dll
+/home/maguran/Documents/Perso/Course/DesignPatterns/State/Chest/obj/Debug/net8.0/refint/Chest.dll
+/home/maguran/Documents/Perso/Course/DesignPatterns/State/Chest/obj/Debug/net8.0/Chest.pdb
+/home/maguran/Documents/Perso/Course/DesignPatterns/State/Chest/obj/Debug/net8.0/Chest.genruntimeconfig.cache
+/home/maguran/Documents/Perso/Course/DesignPatterns/State/Chest/obj/Debug/net8.0/ref/Chest.dll
