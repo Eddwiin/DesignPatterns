@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8fXeHFwQFL8mi4+PphqyQ08B8lyGPYOY/Y4ojPfMiXUPq2sSYRi2gHlXhBAdOdwffBWSUg7DtIPs9C0wNEKgxw==",
+  "success": true,
+  "projectFilePath": "/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/WeakEvent/WeakEvent.csproj",
+  "expectedPackageFiles": [
+    "/home/maguran/.nuget/packages/system.reactive/6.0.0/system.reactive.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/RxSample/obj/Debug/net8.0/RxSample.GeneratedMSBuildEditorConfig.editorconfig
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/RxSample/obj/Debug/net8.0/RxSample.AssemblyInfoInputs.cache
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/RxSample/obj/Debug/net8.0/RxSample.AssemblyInfo.cs
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/RxSample/obj/Debug/net8.0/RxSample.csproj.CoreCompileInputs.cache
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/RxSample/obj/Debug/net8.0/RxSample.sourcelink.json
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/RxSample/bin/Debug/net8.0/RxSample
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/RxSample/bin/Debug/net8.0/RxSample.deps.json
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/RxSample/bin/Debug/net8.0/RxSample.runtimeconfig.json
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/RxSample/bin/Debug/net8.0/RxSample.dll
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/RxSample/bin/Debug/net8.0/RxSample.pdb
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/RxSample/obj/Debug/net8.0/RxSample.dll
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/RxSample/obj/Debug/net8.0/refint/RxSample.dll
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/RxSample/obj/Debug/net8.0/RxSample.pdb
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/RxSample/obj/Debug/net8.0/RxSample.genruntimeconfig.cache
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/RxSample/obj/Debug/net8.0/ref/RxSample.dll

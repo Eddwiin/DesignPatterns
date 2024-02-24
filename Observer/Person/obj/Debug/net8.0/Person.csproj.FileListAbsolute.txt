@@ -1,0 +1,15 @@
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/Person/obj/Debug/net8.0/Person.GeneratedMSBuildEditorConfig.editorconfig
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/Person/obj/Debug/net8.0/Person.AssemblyInfoInputs.cache
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/Person/obj/Debug/net8.0/Person.AssemblyInfo.cs
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/Person/obj/Debug/net8.0/Person.csproj.CoreCompileInputs.cache
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/Person/obj/Debug/net8.0/Person.sourcelink.json
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/Person/bin/Debug/net8.0/Person
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/Person/bin/Debug/net8.0/Person.deps.json
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/Person/bin/Debug/net8.0/Person.runtimeconfig.json
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/Person/bin/Debug/net8.0/Person.dll
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/Person/bin/Debug/net8.0/Person.pdb
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/Person/obj/Debug/net8.0/Person.dll
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/Person/obj/Debug/net8.0/refint/Person.dll
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/Person/obj/Debug/net8.0/Person.pdb
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/Person/obj/Debug/net8.0/Person.genruntimeconfig.cache
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/Person/obj/Debug/net8.0/ref/Person.dll

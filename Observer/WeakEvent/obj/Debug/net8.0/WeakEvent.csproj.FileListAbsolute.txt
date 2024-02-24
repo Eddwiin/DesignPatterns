@@ -1,0 +1,15 @@
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/WeakEvent/obj/Debug/net8.0/WeakEvent.GeneratedMSBuildEditorConfig.editorconfig
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/WeakEvent/obj/Debug/net8.0/WeakEvent.AssemblyInfoInputs.cache
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/WeakEvent/obj/Debug/net8.0/WeakEvent.AssemblyInfo.cs
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/WeakEvent/obj/Debug/net8.0/WeakEvent.csproj.CoreCompileInputs.cache
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/WeakEvent/obj/Debug/net8.0/WeakEvent.sourcelink.json
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/WeakEvent/bin/Debug/net8.0/WeakEvent
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/WeakEvent/bin/Debug/net8.0/WeakEvent.deps.json
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/WeakEvent/bin/Debug/net8.0/WeakEvent.runtimeconfig.json
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/WeakEvent/bin/Debug/net8.0/WeakEvent.dll
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/WeakEvent/bin/Debug/net8.0/WeakEvent.pdb
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/WeakEvent/obj/Debug/net8.0/WeakEvent.dll
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/WeakEvent/obj/Debug/net8.0/refint/WeakEvent.dll
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/WeakEvent/obj/Debug/net8.0/WeakEvent.pdb
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/WeakEvent/obj/Debug/net8.0/WeakEvent.genruntimeconfig.cache
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/WeakEvent/obj/Debug/net8.0/ref/WeakEvent.dll

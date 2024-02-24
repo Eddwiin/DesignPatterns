@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0NNimt25zuHknkAsEPJ/5B+jXPnYn6ZWSkNb9A325s76RnU1Uw/JBJQVaLCCeg3oCR9utsex9v+N7RUqprPfTA==",
+  "success": true,
+  "projectFilePath": "/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/FallsIllEvent/FallsIllEvent.csproj",
+  "expectedPackageFiles": [
+    "/home/maguran/.nuget/packages/system.reactive/6.0.0/system.reactive.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
