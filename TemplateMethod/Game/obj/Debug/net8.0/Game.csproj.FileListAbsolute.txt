@@ -1,0 +1,15 @@
+/home/maguran/Documents/Perso/Course/DesignPatterns/TemplateMethod/Game/obj/Debug/net8.0/Game.GeneratedMSBuildEditorConfig.editorconfig
+/home/maguran/Documents/Perso/Course/DesignPatterns/TemplateMethod/Game/obj/Debug/net8.0/Game.AssemblyInfoInputs.cache
+/home/maguran/Documents/Perso/Course/DesignPatterns/TemplateMethod/Game/obj/Debug/net8.0/Game.AssemblyInfo.cs
+/home/maguran/Documents/Perso/Course/DesignPatterns/TemplateMethod/Game/obj/Debug/net8.0/Game.csproj.CoreCompileInputs.cache
+/home/maguran/Documents/Perso/Course/DesignPatterns/TemplateMethod/Game/obj/Debug/net8.0/Game.sourcelink.json
+/home/maguran/Documents/Perso/Course/DesignPatterns/TemplateMethod/Game/bin/Debug/net8.0/Game
+/home/maguran/Documents/Perso/Course/DesignPatterns/TemplateMethod/Game/bin/Debug/net8.0/Game.deps.json
+/home/maguran/Documents/Perso/Course/DesignPatterns/TemplateMethod/Game/bin/Debug/net8.0/Game.runtimeconfig.json
+/home/maguran/Documents/Perso/Course/DesignPatterns/TemplateMethod/Game/bin/Debug/net8.0/Game.dll
+/home/maguran/Documents/Perso/Course/DesignPatterns/TemplateMethod/Game/bin/Debug/net8.0/Game.pdb
+/home/maguran/Documents/Perso/Course/DesignPatterns/TemplateMethod/Game/obj/Debug/net8.0/Game.dll
+/home/maguran/Documents/Perso/Course/DesignPatterns/TemplateMethod/Game/obj/Debug/net8.0/refint/Game.dll
+/home/maguran/Documents/Perso/Course/DesignPatterns/TemplateMethod/Game/obj/Debug/net8.0/Game.pdb
+/home/maguran/Documents/Perso/Course/DesignPatterns/TemplateMethod/Game/obj/Debug/net8.0/Game.genruntimeconfig.cache
+/home/maguran/Documents/Perso/Course/DesignPatterns/TemplateMethod/Game/obj/Debug/net8.0/ref/Game.dll

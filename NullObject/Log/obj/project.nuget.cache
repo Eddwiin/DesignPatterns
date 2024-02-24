@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qYSBAIdwjSM0qEAHdd6SiXyh6BIOc+/pbYZ4hYD1kdwnlI/Ta7ic+/J51ycBofLJIGDJLaQXHsL7rJp9pzDTCg==",
+  "success": true,
+  "projectFilePath": "/home/maguran/Documents/Perso/Course/DesignPatterns/NullObject/Log/Log.csproj",
+  "expectedPackageFiles": [
+    "/home/maguran/.nuget/packages/jetbrains.annotations/2023.3.0/jetbrains.annotations.2023.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
