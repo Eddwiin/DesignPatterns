@@ -1,0 +1,15 @@
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/Product/obj/Debug/net8.0/Product.GeneratedMSBuildEditorConfig.editorconfig
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/Product/obj/Debug/net8.0/Product.AssemblyInfoInputs.cache
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/Product/obj/Debug/net8.0/Product.AssemblyInfo.cs
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/Product/obj/Debug/net8.0/Product.csproj.CoreCompileInputs.cache
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/Product/obj/Debug/net8.0/Product.sourcelink.json
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/Product/bin/Debug/net8.0/Product
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/Product/bin/Debug/net8.0/Product.deps.json
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/Product/bin/Debug/net8.0/Product.runtimeconfig.json
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/Product/bin/Debug/net8.0/Product.dll
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/Product/bin/Debug/net8.0/Product.pdb
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/Product/obj/Debug/net8.0/Product.dll
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/Product/obj/Debug/net8.0/refint/Product.dll
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/Product/obj/Debug/net8.0/Product.pdb
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/Product/obj/Debug/net8.0/Product.genruntimeconfig.cache
+/home/maguran/Documents/Perso/Course/DesignPatterns/Observer/Product/obj/Debug/net8.0/ref/Product.dll
